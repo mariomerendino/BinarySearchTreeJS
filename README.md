@@ -1,4 +1,4 @@
-#Basic Binary Search Tree written in JavaScript.
+<b>Basic Binary Search Tree written in JavaScript.</b>
 <br>
 Binary Search tree implemenetation in JavaScript, attempted to setup a
 <br>
